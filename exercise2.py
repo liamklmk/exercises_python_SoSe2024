@@ -10,3 +10,4 @@ def teilbar(x, y):
             print("x ist nicht durch y teilbar")
         
 teilbar(6, 8)
+
